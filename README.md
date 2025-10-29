@@ -45,7 +45,6 @@ This repository contains solutions for a technical exercise from homework 5 for 
 ## Usage
 
 CLI Tool: 
-    
     ```bash 
     python borough_complaints.py -i <input_csv> -s <start_date> -e <end_date> [-o <output_file>]
     ``` 
